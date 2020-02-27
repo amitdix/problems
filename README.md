@@ -1,4 +1,4 @@
-# problems
+# Search Programming problem
 Provides instructions about problem 
 
 # Sample product data
