@@ -25,4 +25,7 @@ Provides instructions about problem
 
 # Other instructions 
 
-You can make necessary assumptions. Approach and quality of code is more important than output.
+* You can make necessary assumptions. Approach and quality of code is more important than output.
+
+* please create issue in case of any questions
+
