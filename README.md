@@ -21,3 +21,8 @@ Provides instructions about problem
 * Showcase quality of search results 
 
 * Write automated tests to test the results
+
+
+# Other instructions 
+
+You can make necessary assumptions. Approach and quality of code is more important than output.
