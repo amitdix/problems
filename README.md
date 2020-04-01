@@ -66,5 +66,29 @@ APIs are not called sequentially.
 * Logging should be in place with different logging levels
 
 
+# DEVOPS 
+
+* create sample springboot application from github
+
+* Get VM on public cloud 
+
+* Run application on VM
+
+* Setup kibana
+
+* setup elsastic search
+
+* push logs to elastic search
+
+* Logs should be visible in kibana and should also be searchable 
+
+* make sure that logs have different logging levels
+
+* Make jenkins pipeline to deploy the application in VM
+
+### Other instructions 
+
+* You can make your assumptions
+
 
 
